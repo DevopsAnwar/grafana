@@ -45,8 +45,8 @@ jobs:
       with:
         depth: 1
         branch: 'main'
-        owner: 'techtorialdevops'
-        repository: 'Grafana'
+        owner: 'techtorialdevops'  #DevopsAnwar
+        repository: 'Grafana'      #grafana
     
     - name: Access cloned repo
       run: |
